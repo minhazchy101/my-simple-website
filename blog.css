@@ -3,3 +3,16 @@ div{
     padding: 10px;
     margin-top: 10px;
 }
+
+.head{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: aliceblue;
+    background-color: aqua;
+    border-radius: 10px;
+    box-shadow: 10px 5px;
+    padding: 5px;
+    width: auto;
+
+}
